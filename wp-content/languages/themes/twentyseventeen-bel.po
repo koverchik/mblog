@@ -1,0 +1,117 @@
+# Translation of Themes - Twenty Seventeen in Belarusian
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-29 01:00:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: be_BY\n"
+"Project-Id-Version: Themes - Twenty Seventeen\n"
+
+#: search.php:50
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "На жаль, згодна з вашым запросам, нічога не знойдзена. Калі ласка, паспрабуйце зноў і выкарыстоўвайце іншыя словы."
+
+#: search.php:21 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr "Нічога не знойдзена"
+
+#: template-parts/post/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Гатовы апублікаваць свой першы запіс? <a href=\"%1$s\">Пачнем</a>!"
+
+#: comments.php:66 single.php:31
+msgid "Previous"
+msgstr "Папярэдні"
+
+#: comments.php:67 single.php:32
+msgid "Next"
+msgstr "Наступны"
+
+#: template-parts/post/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Здаецца, мы не можам знайсці тое, што вы пытаецеся знайсці. Магчыма, пошук можа дапамагчы."
+
+#: searchform.php:19
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Пошук &hellip;"
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Пошук"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Вынікі пошуку для: %s"
+
+#: template-parts/page/content-page.php:25
+#: template-parts/post/content-audio.php:88
+#: template-parts/post/content-gallery.php:75
+#: template-parts/post/content-image.php:64
+#: template-parts/post/content-video.php:87 template-parts/post/content.php:61
+msgid "Pages:"
+msgstr "Старонкі"
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Перайсці да змесціва"
+
+#: functions.php:64 functions.php:194
+msgid "Social Links Menu"
+msgstr "Меню сацыяльных спасылак"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Каментары адключаны."
+
+#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: template-parts/footer/site-info.php:13
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: archive.php:47 index.php:52 search.php:45
+msgid "Page"
+msgstr "Старонка"
+
+#: archive.php:46 index.php:51 search.php:44
+msgid "Next page"
+msgstr "Наступная старонка"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Здаецца, гэтая старонка не можа быць знойдзена."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Здаецца, нічога не было знойдзена ў гэтым месцы. Паспрабуем пошук?"
+
+#: archive.php:45 index.php:50 search.php:43
+msgid "Previous page"
+msgstr "Папярэдняя старонка"
+
+#: inc/customizer.php:49
+msgid "Dark"
+msgstr "Цёмны"
+
+#: template-parts/footer/site-info.php:13
+msgid "Proudly powered by %s"
+msgstr "Працуе на %s"
+
+#: searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "Пошук:"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "каманда WordPress"

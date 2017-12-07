@@ -1,0 +1,1242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Readit v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-12 04:33:12+0000\n"
+"Last-Translator: robbie <contact@modernthemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: inc/template-tags.php:147
+#, php-format
+#@ readit
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:153
+#, php-format
+#@ readit
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: inc/template-tags.php:151
+#, php-format
+#@ readit
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: inc/template-tags.php:151
+#@ readit
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:149
+#, php-format
+#@ readit
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: inc/template-tags.php:149
+#@ readit
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:181
+#@ readit
+msgid "Archives"
+msgstr "Archivos"
+
+#: comments.php:28
+#, php-format
+#@ readit
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensamiento en \\\"%2$s\\\""
+msgstr[1] "pensamientos de %1$ s \\\"%2$s\\\""
+
+#: comments.php:35
+#: comments.php:56
+#@ readit
+msgid "Comment navigation"
+msgstr "Navegación comentario"
+
+#: comments.php:72
+#@ readit
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: content-none.php:13
+#@ readit
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: content-none.php:19
+#, php-format
+#@ readit
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+#@ readit
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada emparejó los términos de búsqueda. Por favor, pruebe con algunas palabras clave diferente."
+
+#: content-none.php:28
+#@ readit
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Tal vez buscando puede ayudar."
+
+#: content-page.php:14
+#: content-single.php:22
+#: content.php:33
+#@ readit
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/template-tags.php:126
+#@ readit
+msgid "Edit"
+msgstr "Editar"
+
+#: footer.php:18
+#, php-format
+#@ readit
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: functions.php:55
+#@ readit
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: functions.php:99
+#@ readit
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: header.php:37
+#@ readit
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/customizer.php:54
+#@ readit
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/customizer.php:134
+#@ readit
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: inc/customizer.php:146
+#@ readit
+msgid "Link Color"
+msgstr "Color del vínculo"
+
+#: inc/customizer.php:158
+#@ readit
+msgid "Hover Color"
+msgstr "Hover Color"
+
+#: inc/customizer.php:170
+#@ readit
+msgid "Site Title Color"
+msgstr "Sitio título Color"
+
+#: inc/customizer.php:182
+#@ readit
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#: inc/customizer.php:214
+#@ readit
+msgid "Logo and Icons"
+msgstr "Logotipo e iconos"
+
+#: inc/customizer.php:216
+#@ readit
+msgid "Upload a logo to replace the default site name and description in the header. Also, upload your site favicon and Apple Icons."
+msgstr "Subir un logo para reemplazar el nombre por defecto del sitio y la descripción en el encabezado. Además, subir tu sitio favicon e iconos de Apple."
+
+#: inc/customizer.php:242
+#@ readit
+msgid "Change the width of the Logo in PX."
+msgstr "Cambiar el ancho del logotipo en PX."
+
+#: inc/customizer.php:243
+#@ readit
+msgid "Only enter numeric value"
+msgstr "Sólo ingrese valor numérico"
+
+#: inc/customizer.php:259
+#@ readit
+msgid "Upload your favicon (16x16 pixels)"
+msgstr "Sube tu favicon (16 x 16 píxeles)"
+
+#: inc/customizer.php:280
+#@ readit
+msgid "Upload your Apple Touch Icon (144x144 pixels)"
+msgstr "Subir tu icono de Touch de Apple (144 x 144 píxeles)"
+
+#: inc/customizer.php:301
+#@ readit
+msgid "Upload your Apple Touch Icon (114x114 pixels)"
+msgstr "Subir tu icono de toque Apple (114 x 114 pixeles)"
+
+#: inc/customizer.php:322
+#@ readit
+msgid "Upload your Apple Touch Icon (72x72 pixels)"
+msgstr "Subir tu icono de Touch de Apple (72 x 72 píxeles)"
+
+#: inc/customizer.php:343
+#@ readit
+msgid "Upload your Apple Touch Icon (57x57 pixels)"
+msgstr "Subir tu icono de Touch de Apple (57 x 57 píxeles)"
+
+#: inc/customizer.php:363
+#@ readit
+msgid "Social Media Icons"
+msgstr "Iconos de redes sociales"
+
+#: inc/customizer.php:391
+#@ readit
+msgid "Social Icon Color"
+msgstr "Icono social Color"
+
+#: inc/customizer.php:403
+#@ readit
+msgid "Social Icon Hover Color"
+msgstr "Icono social Hover Color"
+
+#: inc/customizer.php:416
+#@ readit
+msgid "Facebook URL:"
+msgstr "URL de Facebook:"
+
+#: inc/customizer.php:429
+#@ readit
+msgid "Twitter URL:"
+msgstr ""
+
+#: inc/customizer.php:442
+#@ readit
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: inc/customizer.php:455
+#@ readit
+msgid "Google Plus URL:"
+msgstr ""
+
+#: inc/customizer.php:468
+#@ readit
+msgid "Instagram URL:"
+msgstr ""
+
+#: inc/customizer.php:481
+#@ readit
+msgid "Flickr URL:"
+msgstr ""
+
+#: inc/customizer.php:494
+#@ readit
+msgid "Pinterest URL:"
+msgstr ""
+
+#: inc/customizer.php:507
+#@ readit
+msgid "YouTube URL:"
+msgstr ""
+
+#: inc/customizer.php:520
+#@ readit
+msgid "Vimeo URL:"
+msgstr ""
+
+#: inc/customizer.php:533
+#@ readit
+msgid "Tumblr URL:"
+msgstr ""
+
+#: inc/customizer.php:546
+#@ readit
+msgid "Dribbble URL:"
+msgstr ""
+
+#: inc/customizer.php:559
+#@ readit
+msgid "RSS URL:"
+msgstr ""
+
+#: inc/customizer.php:602
+#@ readit
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer.php:604
+#@ readit
+msgid "Customize your footer area"
+msgstr "Personalice su área de pie de página"
+
+#: inc/customizer.php:614
+#@ readit
+msgid "Footer Byline Text"
+msgstr "Texto de autor de pie de página"
+
+#: inc/customizer.php:669
+#@ readit
+msgid "Post content"
+msgstr "Publicar contenido"
+
+#: inc/customizer.php:691
+#@ readit
+msgid "Excerpt length"
+msgstr "Extracto de longitud"
+
+#: inc/extras.php:52
+#, php-format
+#@ readit
+msgid "Page %s"
+msgstr "Página de %s"
+
+#: inc/template-tags.php:23
+#@ readit
+msgid "Posts navigation"
+msgstr "Puestos de navegación"
+
+#: inc/template-tags.php:27
+#@ readit
+msgid "Older posts"
+msgstr "Mensajes antiguos"
+
+#: inc/template-tags.php:31
+#@ readit
+msgid "Newer posts"
+msgstr "Mensajes más recientes"
+
+#: inc/template-tags.php:56
+#@ readit
+msgid "Post navigation"
+msgstr "Navegación de correos"
+
+#: inc/template-tags.php:86
+#, php-format
+#@ readit
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicada en %s"
+
+#: inc/template-tags.php:91
+#, php-format
+#@ readit
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108
+#: inc/template-tags.php:114
+#@ readit
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:110
+#, php-format
+#@ readit
+msgid "Posted in %1$s"
+msgstr "Publicada en %1$ s"
+
+#: inc/template-tags.php:116
+#, php-format
+#@ readit
+msgid "Tagged %1$s"
+msgstr "Etiquetado %1$s"
+
+#: inc/template-tags.php:122
+#@ readit
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/template-tags.php:122
+#@ readit
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:122
+#@ readit
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: inc/template-tags.php:143
+#, php-format
+#@ readit
+msgid "Category: %s"
+msgstr "Categoría: %s"
+
+#: inc/template-tags.php:145
+#, php-format
+#@ readit
+msgid "Tag: %s"
+msgstr "Etiqueta: %s"
+
+#: inc/template-tags.php:156
+#@ readit
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Apartes"
+
+#: inc/template-tags.php:158
+#@ readit
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerías de arte"
+
+#: inc/template-tags.php:160
+#@ readit
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imágenes"
+
+#: inc/template-tags.php:162
+#@ readit
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vídeos"
+
+#: inc/template-tags.php:164
+#@ readit
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Comillas"
+
+#: inc/template-tags.php:166
+#@ readit
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Enlaces"
+
+#: inc/template-tags.php:168
+#@ readit
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Estados"
+
+#: inc/template-tags.php:170
+#@ readit
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:172
+#@ readit
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Charlas"
+
+#: inc/template-tags.php:175
+#, php-format
+#@ readit
+msgid "Archives: %s"
+msgstr "Archivos: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+#, php-format
+#@ readit
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:321
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:323
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:325
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:327
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:329
+#, php-format
+#@ readit
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] "Este tema requiere los siguientes plugins: %1$s."
+
+#: panel/class-tgm-plugin-activation.php:331
+#, php-format
+#@ readit
+msgid "First time using Modern Themes? We recommend certain plugins if you desire additional functionality (like %1$s)."
+msgid_plural "First time using Modern Themes? We recommend certain plugins if you desire additional functionality (like %1$s)."
+msgstr[0] "¿Por primera vez usando temas modernos? Recomendamos algunos plugins si deseas funcionalidades adicionales (tales como %1$s)."
+msgstr[1] "¿Por primera vez usando temas modernos? Recomendamos algunos plugins si deseas funcionalidades adicionales (tales como %1$s)."
+
+#: panel/class-tgm-plugin-activation.php:333
+#, php-format
+#@ readit
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Lo siento, pero usted no tiene los permisos correctos para instalar el plugin %s. Póngase en contacto con el administrador de este sitio para obtener ayuda en conseguir el plugin instalado."
+msgstr[1] "Lo siento, pero usted no tiene los permisos correctos para instalar los plugins de %s. Póngase en contacto con el administrador de este sitio para obtener ayuda en conseguir los plugins instalados."
+
+#: panel/class-tgm-plugin-activation.php:335
+#, php-format
+#@ readit
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente requiere plugin está actualmente inactiva: %1$s."
+msgstr[1] "El siguiente requiere los plugins son actualmente inactivos: %1$s."
+
+#: panel/class-tgm-plugin-activation.php:337
+#, php-format
+#@ readit
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Recomienda el siguiente plugin está actualmente inactiva: %1$s."
+msgstr[1] "Recomienda lo siguiente los plugins son actualmente inactivos: %1$s."
+
+#: panel/class-tgm-plugin-activation.php:339
+#, php-format
+#@ readit
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Lo siento, pero usted no tiene los permisos correctos para activar el plugin %s. Póngase en contacto con el administrador de este sitio para obtener ayuda en conseguir el plugin activado."
+msgstr[1] "Lo siento, pero usted no tiene los permisos correctos para activar los plugins de %s. Póngase en contacto con el administrador de este sitio para obtener ayuda en conseguir los plugins activados."
+
+#: panel/class-tgm-plugin-activation.php:341
+#, php-format
+#@ readit
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin debe actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#: panel/class-tgm-plugin-activation.php:343
+#, php-format
+#@ readit
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Lo siento, pero usted no tiene los permisos correctos para actualizar el plugin %s. Póngase en contacto con el administrador de este sitio para obtener ayuda en conseguir el plugin actualizado."
+msgstr[1] "Lo siento, pero usted no tiene los permisos correctos para actualizar los plugins de %s. Póngase en contacto con el administrador de este sitio para obtener ayuda en conseguir los plugins actualizados."
+
+#: panel/class-tgm-plugin-activation.php:345
+#@ readit
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar a instalar plugins"
+
+#: panel/class-tgm-plugin-activation.php:347
+#@ readit
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar a activar plugin"
+msgstr[1] "Comenzar a activar plugins"
+
+#: panel/class-tgm-plugin-activation.php:349
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:351
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:353
+#: panel/class-tgm-plugin-activation.php:3891
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:357
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:359
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:1069
+#: panel/class-tgm-plugin-activation.php:4325
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2339
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2345
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2355
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2361
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2361
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2367
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2371
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2581
+#: panel/class-tgm-plugin-activation.php:2797
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2625
+#: panel/class-tgm-plugin-activation.php:2799
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2723
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2755
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2757
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2759
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2761
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: panel/class-tgm-plugin-activation.php:3273
+#: panel/class-tgm-plugin-activation.php:355
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:3857
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3859
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3861
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3863
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3865
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3867
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3889
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4117
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4119
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4119
+#: panel/class-tgm-plugin-activation.php:4137
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4119
+#: panel/class-tgm-plugin-activation.php:4137
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4121
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4123
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4131
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4133
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4135
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4137
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4139
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4141
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/readit-admin_page.php:219
+#@ readit
+msgid "View Video"
+msgstr "Ver vídeo"
+
+#: panel/readit-admin_page.php:223
+#@ readit
+msgid "Documentation"
+msgstr "Documentación"
+
+#: panel/readit-admin_page.php:231
+#@ readit
+msgid "Read Docs"
+msgstr "Leer Docs"
+
+#: panel/readit-admin_page.php:235
+#@ readit
+msgid "About ModernThemes"
+msgstr "Acerca de ModernThemes"
+
+#: panel/readit-admin_page.php:243
+#@ readit
+msgid "About Us"
+msgstr "Sobre nosotros"
+
+#: panel/readit-admin_page.php:247
+#@ readit
+msgid "Want more features? Go Pro."
+msgstr "¿Quieres más características? Ser profesional."
+
+#: panel/readit-admin_page.php:283
+#@ readit
+msgid "More Sidebars"
+msgstr "Barras laterales más"
+
+#: panel/readit-admin_page.php:287
+#@ readit
+msgid "Sometimes you need different sidebars for different pages. We got you covered, offering up to 5 different sidebars."
+msgstr "A veces necesitas barras laterales diferentes para diferentes páginas. Te tenemos cubierto, ofreciendo hasta 5 diferentes barras laterales."
+
+#: panel/readit-admin_page.php:295
+#@ readit
+msgid "PSD Files"
+msgstr "Archivos PSD"
+
+#: panel/readit-admin_page.php:299
+#@ readit
+msgid "Premium versions include PSD files. Preview your own content or showcase a customized version for your clients."
+msgstr "Versiones PREMIUM incluyen archivos PSD. Escuchar su propio contenido o mostrar una versión personalizada para sus clientes."
+
+#: panel/readit-admin_page.php:303
+#@ readit
+msgid "Free Support"
+msgstr "Soporte gratuito"
+
+#: panel/readit-admin_page.php:307
+#@ readit
+msgid "Call on us to help you out. Premium themes come with free support that goes directly to our support staff."
+msgstr "Llame a nosotros para ayudarte. Temas Premium vienen con soporte gratuito que va directamente a nuestro personal de soporte."
+
+#: panel/readit-admin_page.php:311
+#@ readit
+msgid "View Pro Version"
+msgstr "Ver la versión Pro"
+
+#: search.php:13
+#, php-format
+#@ readit
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: widgets/contact-info.php:13
+#@ readit
+msgid "Display your contact info"
+msgstr "Mostrar tu información de contacto"
+
+#: widgets/contact-info.php:15
+#@ readit
+msgid "MT: Contact Info Widget"
+msgstr "MT: Información de contacto Widget"
+
+#: widgets/contact-info.php:53
+#: widgets/video-widget.php:49
+#@ readit
+msgid "Title"
+msgstr "Título"
+
+#: widgets/contact-info.php:61
+#@ readit
+msgid "Enter your address"
+msgstr "Introduzca su dirección de"
+
+#: widgets/contact-info.php:67
+#@ readit
+msgid "Enter your phone number"
+msgstr "Ingrese su número de teléfono"
+
+#: widgets/contact-info.php:73
+#@ readit
+msgid "Enter your email address"
+msgstr "Introduzca su dirección de correo electrónico"
+
+#: widgets/contact-info.php:171
+#@ readit
+msgid "Contact info"
+msgstr "Información de contacto"
+
+#: widgets/contact-info.php:195
+#@ readit
+msgid "Address: "
+msgstr "Dirección: "
+
+#: widgets/contact-info.php:205
+#@ readit
+msgid "Phone: "
+msgstr "Teléfono: "
+
+#: widgets/contact-info.php:215
+#@ readit
+msgid "Email: "
+msgstr "Correo electrónico: "
+
+#: widgets/video-widget.php:13
+#@ readit
+msgid "Video for your sidebar."
+msgstr "Video para matarlo."
+
+#: widgets/video-widget.php:15
+#@ readit
+msgid "MT: Video Widget"
+msgstr "MT: Vídeo Widget"
+
+#: widgets/video-widget.php:57
+#@ readit
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Pegar la dirección URL del vídeo (sólo desde una red que soporta oEmbed, como Youtube, Vimeo etc..):"
+
+#: widgets/video-widget.php:151
+#@ readit
+msgid "Video"
+msgstr "Video"
+
+#: inc/customizer.php:650
+#@ readit
+msgid "Footer Background Color"
+msgstr "Color de fondo de pie de página"
+
+#: inc/customizer.php:626
+#@ readit
+msgid "Footer Text Color"
+msgstr "Color del texto de pie de página"
+
+#: inc/customizer.php:638
+#@ readit
+msgid "Footer Link Color"
+msgstr "Color del vínculo de pie de página"
+
+#: inc/customizer.php:358
+#@ readit
+msgid "Edit your social media icons"
+msgstr "Editar tus iconos de redes sociales"
+
+#: inc/customizer.php:378
+#@ readit
+msgid "Hide Social Section"
+msgstr "Ocultar sección Social"
+
+#: 404.php:14
+#@ {bug-detected}
+msgid "<h1 class=\"page-entry-title\">404."
+msgstr ""
+
+#: 404.php:27
+#@ readit
+msgid "It looks like nothing was found at this location."
+msgstr "Parece que en este lugar no se encontró nada."
+
+#: comments.php:38
+#: comments.php:59
+#@ readit
+msgid "Older Comments"
+msgstr "Mayores comentarios"
+
+#: comments.php:39
+#: comments.php:60
+#@ readit
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#. translators: %s: Name of current post
+#: content.php:24
+#, php-format
+#@ readit
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:26
+#@ {bug-detected}
+msgid "<span class=\"screen-reader-text\">\""
+msgstr ""
+
+#: header.php:44
+#@ readit
+msgid "120"
+msgstr ""
+
+#: inc/customizer.php:104
+#@ readit
+msgid "Select your desired font for the headings. Montserrat is the default Heading font."
+msgstr "Seleccionar la fuente deseada para los títulos. Montserrat es la fuente de la dirección predeterminada."
+
+#: inc/customizer.php:121
+#@ readit
+msgid "Select your desired font for the body. Playfair Display is the default Body font."
+msgstr "Seleccione la fuente deseada para el cuerpo. Playfair Display es la fuente del cuerpo predeterminada."
+
+#: inc/customizer.php:194
+#@ readit
+msgid "Header Color"
+msgstr "Color de encabezado"
+
+#: inc/customizer.php:206
+#@ readit
+msgid "Menu Background Color"
+msgstr "Color de fondo del menú"
+
+#: inc/customizer.php:357
+#@ readit
+msgid "Social Media Section"
+msgstr "Sección de los medios sociales"
+
+#: inc/customizer.php:658
+#@ readit
+msgid "Blog Layout"
+msgstr "Diseño blog"
+
+#: inc/customizer.php:692
+#@ readit
+msgid "Choose your excerpt length here. Default: 40 words"
+msgstr "Elegir la longitud del fragmento aquí. Por defecto: 40 palabras"
+
+#: panel/readit-admin_page.php:239
+#@ readit
+msgid "Want to learn more about ModernThemes? Let us help you at modernthemes.net."
+msgstr "¿Quieres aprender más sobre ModernThemes? Permítanos ayudarle a modernthemes.net."
+
+#: panel/readit-admin_page.php:251
+#@ readit
+msgid "Blog Layouts"
+msgstr "Diseños de blog"
+
+#: panel/readit-admin_page.php:259
+#@ readit
+msgid "Scroll Animations"
+msgstr "Animaciones de desplazamiento"
+
+#: panel/readit-admin_page.php:263
+#@ readit
+msgid "Control more options and aspects of your website including scroll animations to wow your readers and keep it fresh."
+msgstr "Control más opciones y aspectos de su sitio web incluyendo desplazamiento animaciones para tus lectores wow y mantenerlo fresco."
+
+#: panel/readit-admin_page.php:267
+#@ readit
+msgid "Blog Hover Effects"
+msgstr "Efectos blog Hover"
+
+#: panel/readit-admin_page.php:271
+#@ readit
+msgid "With blog entry hover effects, you can add more to your website aesthetics and display your information in brand new ways."
+msgstr "Con efectos de libración de entrada de blog, puede agregar más a la estética de tu sitio web y mostrar su información de nuevas maneras."
+
+#: panel/readit-admin_page.php:275
+#@ readit
+msgid "Footer Widget Areas"
+msgstr "Áreas de pie de página Widget"
+
+#: panel/readit-admin_page.php:315
+#@ readit
+msgid "Want more themes? Check out our collections."
+msgstr "¿Quieres más temas? Revisa nuestras colecciones."
+
+#: panel/readit-admin_page.php:319
+#@ readit
+msgid "Blog & Magazine"
+msgstr "Revista & blog"
+
+#: panel/readit-admin_page.php:323
+#@ readit
+msgid "Business"
+msgstr "Negocio"
+
+#: panel/readit-admin_page.php:327
+#@ readit
+msgid "Creative & Portfolio"
+msgstr "Cartera & creativo"
+
+#: panel/readit-admin_page.php:331
+#@ readit
+msgid "eCommerce"
+msgstr "eCommerce"
+
+#: panel/readit-admin_page.php:335
+#@ readit
+msgid "Education"
+msgstr "Educación"
+
+#: panel/readit-admin_page.php:339
+#@ readit
+msgid "Fitness & Sports"
+msgstr "Gimnasio & deportes"
+
+#: panel/readit-admin_page.php:343
+#@ readit
+msgid "Food & Restaurant"
+msgstr "Restaurante &"
+
+#: panel/readit-admin_page.php:347
+#@ readit
+msgid "Health & Beauty"
+msgstr "Salud belleza &"
+
+#: panel/readit-admin_page.php:351
+#@ readit
+msgid "Hotel"
+msgstr "Hotel"
+
+#: panel/readit-admin_page.php:355
+#@ readit
+msgid "Medical"
+msgstr "Médicos"
+
+#: panel/readit-admin_page.php:359
+#@ readit
+msgid "Music"
+msgstr "Música"
+
+#: panel/readit-admin_page.php:363
+#@ readit
+msgid "Photography"
+msgstr "Fotografía"
+
+#: panel/readit-admin_page.php:367
+#@ readit
+msgid "Real Estate"
+msgstr "Inmobiliaria"
+
+#: panel/readit-admin_page.php:371
+#@ readit
+msgid "Travel"
+msgstr "Viajes"
+
+#: panel/readit-admin_page.php:375
+#@ readit
+msgid "One Page"
+msgstr "Una sola página"
+
+#: panel/readit-admin_page.php:379
+#@ readit
+msgid "Niche Markets"
+msgstr "Nichos de mercado"
+
+#: inc/customizer.php:224
+#@ readit
+msgid "Logo"
+msgstr "Logotipo"
+
+#: inc/customizer.php:30
+#@ readit
+msgid "Readit Pro"
+msgstr "Readit Pro"
+
+#: inc/customizer.php:32
+#@ readit
+msgid "Want different layouts for your blog? Need some cooler hover effects to impress your readers? If you want to see what additional features <a href=\"http://modernthemes.net/wordpress-themes/readit-pro/\" target=\"_blank\">Readit Pro</a> has, check them all out right <a href=\"http://modernthemes.net/wordpress-themes/readit-pro/\" target=\"_blank\">here</a>. Readit Pro is only $15!</br></br>We do all we can do to make all our themes free for you. While we enjoy it, and it makes us happy to help out, a little appreciation can help us to keep theming.</strong><br/><br/> Please help support our mission and continued development with a donation of $5, $10, $20, or if you are feeling really kind $100..<br/><br/> <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LMGYAZW9C5GE\" target=\"_blank\" rel=\"nofollow\"><img class=\"\" src=\"https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"Make a donation to ModernThemes\" /></a>"
+msgstr ""
+
+#: inc/customizer.php:567
+#@ readit
+msgid "Headline"
+msgstr "Titular"
+
+#: inc/customizer.php:569
+#@ readit
+msgid "Enter your own headline content"
+msgstr "Introduzca el contenido de su propio titular"
+
+#: inc/customizer.php:580
+#@ readit
+msgid "Headline Text"
+msgstr "Texto de titular"
+
+#: inc/customizer.php:660
+#@ readit
+msgid "Change how readit displays posts"
+msgstr "Cambiar cómo leerla muestra mensajes"
+
+#: inc/template-tags.php:153
+#@ readit
+msgctxt "readit archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: panel/readit-admin_page.php:202
+#@ readit
+msgid "Readit Theme Details"
+msgstr "Detalles del tema Readit"
+
+#: panel/readit-admin_page.php:207
+#@ readit
+msgid "Thank you for using Readit!"
+msgstr "Gracias por usar Readit!"
+
+#: panel/readit-admin_page.php:211
+#@ readit
+msgid "Readit Theme Setup"
+msgstr "Configuración del tema Readit"
+
+#: panel/readit-admin_page.php:215
+#@ readit
+msgid "We created a quick theme setup video to help you get started with Readit. Watch the video with the link below"
+msgstr "Hemos creado una configuración rápida tema vídeo para ayudarle a comenzar a Readit. Vea el video con el enlace de abajo"
+
+#: panel/readit-admin_page.php:227
+#@ readit
+msgid "Check out our Readit documentation to learn how to use your Readit theme. Click the link below."
+msgstr "Revisa nuestra documentación Readit para aprender a usar tu tema de leerla. Haga clic en el enlace de más abajo."
+
+#: panel/readit-admin_page.php:255
+#@ readit
+msgid "Readit Pro comes with a number of creative blog layouts like Masonry and Library. Make your blog look as good as your writing."
+msgstr "Readit Pro viene con una serie de diseños creativos blog como albañilería y biblioteca. Que tu blog se vean tan bien como su escritura."
+
+#: panel/readit-admin_page.php:279
+#@ readit
+msgid "Want more content for your footer? Readit Pro has three footer widget areas to populate with any content you want."
+msgstr "¿Quieres más contenido para tu pie? Readit Pro tiene tres áreas de widget de pie de página para rellenar con cualquier contenido que quieras."
+
+#: panel/readit-admin_page.php:291
+#@ readit
+msgid "Access an additional 65 Google fonts with Readit Pro right in the admin panel of the WordPress customizer."
+msgstr "Acceder a una fuentes adicionales de Google 65 con la derecha Readit Pro en el panel de administración del Personalizador de WordPress."
+
+#: inc/customizer.php:594
+#@ readit
+msgid "Headline Subtext"
+msgstr "Titular \\\"entrelíneas\\\""
+
+#: index.php:23
+#: page-home.php:16
+#@ readit
+msgid "Welcome to Readit,"
+msgstr "¡ Bienvenido a Readit,"
+
+#: index.php:29
+#: page-home.php:22
+#@ readit
+msgid "a modern WordPress blog."
+msgstr "un blog de WordPress moderno."
+

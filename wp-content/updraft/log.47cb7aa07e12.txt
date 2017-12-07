@@ -1,0 +1,242 @@
+0000.000 (0) Opened log file at time: Wed, 20 Sep 2017 13:53:07 +0000 on https://it.falanster.by/blog
+0000.034 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.7 WP: 4.8.2 PHP: 7.0.22-0ubuntu0.16.04.1 (apache2handler, Linux dranik 4.4.0-93-generic #116-Ubuntu SMP Fri Aug 11 21:17:51 UTC 2017 x86_64) MySQL: 5.7.19 WPLANG: en_GB Server: Apache/2.4.18 (Ubuntu) mod_fcgid/2.3.9 OpenSSL/1.0.2g safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 12.8M | 6M) multisite: N openssl: OpenSSL 1.0.2g  1 Mar 2016 mcrypt: Y LANG: C ZipArchive::addFile: N
+0000.058 (0) Free space on disk containing Updraft's temporary directory: 459717.6 MB
+0000.084 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.109 (0) Semaphore (fd, wp_options) being initialised
+0000.184 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.301 (0) Set semaphore last lock (fd) time to 2017-09-20 13:53:07
+0000.326 (0) Semaphore lock (fd) complete
+0000.401 (0) Backup run: resumption=0, nonce=47cb7aa07e12, begun at=1505915587 (0s ago), job type=backup
+0000.451 (0) Scheduling a resumption (1) after 300 seconds (1505915887) in case this run gets aborted
+0000.549 (0) Checking if we have a zip executable available
+0000.601 (0) Zip engine: ZipArchive is not available or is disabled (will use PclZip if needed)
+0000.626 (0) Creation of backups of directories: beginning
+0000.718 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.624 (0) Total entities for the zip file: 772 directories, 5753 files (0 skipped as non-modified), 74.3 MB
+0001.661 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 76042.2 KB, split: 409600 KB)
+0001.692 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.726 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.759 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.793 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.826 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.859 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.892 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.925 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.960 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0002.017 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0002.060 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0002.095 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0002.129 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0002.162 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0002.195 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0002.229 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0002.262 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0002.295 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0002.328 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0002.396 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0002.428 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0002.460 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0002.494 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0002.527 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0002.561 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0002.593 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0002.644 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0002.677 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0002.711 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0002.744 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0002.778 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0002.811 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0002.844 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0002.877 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0002.919 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0002.952 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0002.977 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0003.011 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0003.044 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0003.077 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0003.111 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0003.145 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0003.186 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0003.220 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0003.254 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0003.288 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0003.321 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0003.355 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0003.389 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0003.423 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0003.470 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0003.503 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0003.536 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 5300 files added (on-disk size: 0 KB)
+0003.570 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 5400 files added (on-disk size: 0 KB)
+0003.603 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 5500 files added (on-disk size: 0 KB)
+0003.636 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 5600 files added (on-disk size: 0 KB)
+0003.670 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip.tmp: 5700 files added (on-disk size: 0 KB)
+0016.596 (0) PHP event: code E_WARNING: Error while sending QUERY packet. PID=22242 (line 1887, wp-includes/wp-db.php)
+0016.967 (0) Created plugins zip (0) - 30351.3 KB in 16.2 s (1870.9 KB/s) (sha1: 4733c8cd1edef34be66629cf0326d78893b6bfac, sha256: f5eb32b8491abbc9b6038f1e939dac4b79b02310d968653ba9db324406fd2855)
+0017.033 (0) Beginning creation of dump of themes (split every: 400 MB)
+0017.174 (0) Total entities for the zip file: 111 directories, 600 files (0 skipped as non-modified), 14.4 MB
+0017.209 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 14765.1 KB, split: 409600 KB)
+0017.248 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0017.289 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0017.331 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0017.373 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0017.415 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0017.457 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0018.759 (0) Created themes zip (0) - 9446.7 KB in 1.7 s (5583.3 KB/s) (sha1: 9897976c6c0d52c5c334b0772e5e5b841b450e26, sha256: 3d7a61b67bba307fdc9adefb6794ee09881d37705150dd9c9fd97d7f1b8bf237)
+0018.826 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0018.859 (0) Looking for candidates to back up in: /home/it/web/it.falanster.by/public_html/blog/wp-content/uploads
+0018.893 (0) finding files: captcha_images: adding to list (1)
+0018.926 (0) finding files: bws-custom-code: adding to list (2)
+0018.960 (0) finding files: wd-google-analytics: adding to list (3)
+0018.993 (0) finding files: 2017: adding to list (4)
+0019.026 (0) finding files: 2015: adding to list (5)
+0019.060 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0019.187 (0) Total entities for the zip file: 26 directories, 565 files (0 skipped as non-modified), 71.6 MB
+0019.218 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 73341 KB, split: 409600 KB)
+0019.258 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0019.291 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0019.324 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0019.366 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0019.399 (0) Zip: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0022.394 (0) Created uploads zip (0) - 72512.3 KB in 3.3 s (21970.2 KB/s) (sha1: af02e0277bdc5e2b9be58d8954d4f83c8fbf17ce, sha256: b022fca0ad8732a15b3e940ba117444c2cf0471046483bcfcd6b19f62ef2217a)
+0022.453 (0) Beginning backup of other directories found in the content directory (index: 0)
+0022.478 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0022.511 (0) Looking for candidates to back up in: /home/it/web/it.falanster.by/public_html/blog/wp-content
+0022.545 (0) finding files: wp-cache-config.php: adding to list (1)
+0022.578 (0) finding files: updraft: skipping: this is the updraft directory
+0022.603 (0) finding files: advanced-cache.php: adding to list (2)
+0022.628 (0) finding files: upgrade: skipping: excluded by options
+0022.653 (0) finding files: plugins: skipping: this is the plugins directory
+0022.678 (0) finding files: languages: adding to list (3)
+0022.703 (0) finding files: themes: skipping: this is the themes directory
+0022.728 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0022.753 (0) finding files: uploads: skipping: this is the uploads directory
+0022.778 (0) finding files: index.php: adding to list (4)
+0022.803 (0) finding files: cache: skipping: excluded by options
+0022.859 (0) Total entities for the zip file: 6 directories, 51 files (0 skipped as non-modified), 4.4 MB
+0022.879 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 4470 KB, split: 409600 KB)
+0023.171 (0) Created others zip (0) - 1126.7 KB in 0.3 s (3300.6 KB/s) (sha1: 3f3460c05be6bed504b120f67d5d5d05a73314f8, sha256: 1cd620b0bc694a1507abdba7c988ed146c847cf3257e24593538cff03bf703c0)
+0023.271 (0) Saving backup status to database (elements: 8)
+0023.321 (0) Beginning creation of database dump (WordPress DB)
+0023.471 (0) Table wp_options: Total expected rows (approximate): 966
+0023.543 (0) Table wp_options: Total rows added: 982 in 0.05 seconds
+0023.564 (0) Table wp_options: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_options.table.gz - 286.8 KB)
+0023.639 (0) Table wp_users: Total expected rows (approximate): 12
+0023.665 (0) Table wp_users: Total rows added: 12 in 0.00 seconds
+0023.689 (0) Table wp_users: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_users.table.gz - 1.4 KB)
+0023.789 (0) Table wp_usermeta: Total expected rows (approximate): 552
+0023.817 (0) Table wp_usermeta: Total rows added: 552 in 0.00 seconds
+0023.839 (0) Table wp_usermeta: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_usermeta.table.gz - 7.9 KB)
+0023.915 (0) Table wp_commentmeta: Total expected rows (approximate): 8
+0023.940 (0) Table wp_commentmeta: Total rows added: 8 in 0.00 seconds
+0023.964 (0) Table wp_commentmeta: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_commentmeta.table.gz - 0.5 KB)
+0024.065 (0) Table wp_comments: Total expected rows (approximate): 38
+0024.092 (0) Table wp_comments: Total rows added: 43 in 0.00 seconds
+0024.115 (0) Table wp_comments: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_comments.table.gz - 13.2 KB)
+0024.190 (0) Table wp_links: Total expected rows (approximate): 0
+0024.216 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0024.240 (0) Table wp_links: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_links.table.gz - 0.4 KB)
+0024.349 (0) Table wp_postmeta: Total expected rows (approximate): 520
+0024.378 (0) Table wp_postmeta: Total rows added: 584 in 0.00 seconds
+0024.399 (0) Table wp_postmeta: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_postmeta.table.gz - 16.1 KB)
+0024.474 (0) Table wp_posts: Total expected rows (approximate): 344
+0024.532 (0) Table wp_posts: Total rows added: 331 in 0.03 seconds
+0024.557 (0) Table wp_posts: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_posts.table.gz - 115.6 KB)
+0024.633 (0) Table wp_term_relationships: Total expected rows (approximate): 120
+0024.658 (0) Table wp_term_relationships: Total rows added: 120 in 0.00 seconds
+0024.682 (0) Table wp_term_relationships: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_term_relationships.table.gz - 0.7 KB)
+0024.799 (0) Table wp_term_taxonomy: Total expected rows (approximate): 59
+0024.826 (0) Table wp_term_taxonomy: Total rows added: 59 in 0.00 seconds
+0024.849 (0) Table wp_term_taxonomy: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_term_taxonomy.table.gz - 0.8 KB)
+0024.925 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0024.950 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0024.975 (0) Table wp_termmeta: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_termmeta.table.gz - 0.4 KB)
+0025.075 (0) Table wp_terms: Total expected rows (approximate): 59
+0025.101 (0) Table wp_terms: Total rows added: 59 in 0.00 seconds
+0025.125 (0) Table wp_terms: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_terms.table.gz - 2 KB)
+0025.200 (0) Table wp_cptch_images: Total expected rows (approximate): 112
+0025.226 (0) Table wp_cptch_images: Total rows added: 112 in 0.00 seconds
+0025.250 (0) Table wp_cptch_images: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_cptch_images.table.gz - 0.9 KB)
+0025.343 (0) Table wp_cptch_packages: Total expected rows (approximate): 12
+0025.368 (0) Table wp_cptch_packages: Total rows added: 12 in 0.00 seconds
+0025.392 (0) Table wp_cptch_packages: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_cptch_packages.table.gz - 0.5 KB)
+0025.468 (0) Table wp_cptch_whitelist: Total expected rows (approximate): 0
+0025.493 (0) Table wp_cptch_whitelist: Total rows added: 0 in 0.00 seconds
+0025.517 (0) Table wp_cptch_whitelist: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_cptch_whitelist.table.gz - 0.3 KB)
+0025.660 (0) Table wp_cw_css: Total expected rows (approximate): 3
+0025.685 (0) Table wp_cw_css: Total rows added: 3 in 0.00 seconds
+0025.709 (0) Table wp_cw_css: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_cw_css.table.gz - 0.4 KB)
+0025.793 (0) Table wp_hctpc_images: Total expected rows (approximate): 112
+0025.819 (0) Table wp_hctpc_images: Total rows added: 112 in 0.00 seconds
+0025.843 (0) Table wp_hctpc_images: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_hctpc_images.table.gz - 0.9 KB)
+0025.927 (0) Table wp_hctpc_packages: Total expected rows (approximate): 12
+0025.953 (0) Table wp_hctpc_packages: Total rows added: 12 in 0.00 seconds
+0025.977 (0) Table wp_hctpc_packages: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_hctpc_packages.table.gz - 0.5 KB)
+0026.053 (0) Table wp_hctpc_whitelist: Total expected rows (approximate): 0
+0026.078 (0) Table wp_hctpc_whitelist: Total rows added: 0 in 0.00 seconds
+0026.102 (0) Table wp_hctpc_whitelist: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_hctpc_whitelist.table.gz - 0.3 KB)
+0026.177 (0) Table wp_mistape_reports: Total expected rows (approximate): 15
+0026.203 (0) Table wp_mistape_reports: Total rows added: 15 in 0.00 seconds
+0026.227 (0) Table wp_mistape_reports: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_mistape_reports.table.gz - 3.2 KB)
+0026.328 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 35
+0026.362 (0) Table wp_yoast_seo_links: Total rows added: 35 in 0.00 seconds
+0026.394 (0) Table wp_yoast_seo_links: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_yoast_seo_links.table.gz - 1.1 KB)
+0026.495 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 10
+0026.528 (0) Table wp_yoast_seo_meta: Total rows added: 11 in 0.00 seconds
+0026.561 (0) Table wp_yoast_seo_meta: finishing file (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_yoast_seo_meta.table.gz - 0.4 KB)
+0026.661 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_options.table.gz (1/22): adding to final database dump
+0026.754 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_users.table.gz (2/22): adding to final database dump
+0026.795 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_usermeta.table.gz (3/22): adding to final database dump
+0026.830 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_commentmeta.table.gz (4/22): adding to final database dump
+0026.861 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_comments.table.gz (5/22): adding to final database dump
+0026.896 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_links.table.gz (6/22): adding to final database dump
+0026.962 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_postmeta.table.gz (7/22): adding to final database dump
+0026.998 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_posts.table.gz (8/22): adding to final database dump
+0027.059 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_term_relationships.table.gz (9/22): adding to final database dump
+0027.087 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_term_taxonomy.table.gz (10/22): adding to final database dump
+0027.121 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_termmeta.table.gz (11/22): adding to final database dump
+0027.154 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_terms.table.gz (12/22): adding to final database dump
+0027.187 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_cptch_images.table.gz (13/22): adding to final database dump
+0027.229 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_cptch_packages.table.gz (14/22): adding to final database dump
+0027.262 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_cptch_whitelist.table.gz (15/22): adding to final database dump
+0027.295 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_cw_css.table.gz (16/22): adding to final database dump
+0027.329 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_hctpc_images.table.gz (17/22): adding to final database dump
+0027.362 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_hctpc_packages.table.gz (18/22): adding to final database dump
+0027.396 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_hctpc_whitelist.table.gz (19/22): adding to final database dump
+0027.429 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_mistape_reports.table.gz (20/22): adding to final database dump
+0027.463 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_yoast_seo_links.table.gz (21/22): adding to final database dump
+0027.496 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db-table-wp_yoast_seo_meta.table.gz (22/22): adding to final database dump
+0027.521 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db.gz: finished writing out complete database file (440 KB)
+0027.646 (0) Total database tables backed up: 22 (backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db.gz, size: 459681, sha256)
+0027.755 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0027.780 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0027.805 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0027.830 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-others.zip: others: This file has not yet been successfully uploaded: will queue
+0027.855 (0) backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db.gz: db: This file has not yet been successfully uploaded: will queue
+0027.880 (0) Saving backup history. Total backup size: 111.2 MB
+0027.930 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0028.005 (0) Cloud backup selection (1/1): none (last)
+0028.064 (0) No remote despatch: user chose no remote backup service
+0028.114 (0) Recording as successfully uploaded: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-plugins.zip (28ea56d5fe97e9129c55c34c525e9cf0)
+0028.239 (0) Recording as successfully uploaded: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-themes.zip (e5588e40176b4d35f9adfb836ff27766)
+0028.340 (0) Recording as successfully uploaded: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-uploads.zip (3f6b924a0d173760a85e31822d268049)
+0028.440 (0) Recording as successfully uploaded: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-others.zip (d004ea9d63dbae8b893e1873b0356544)
+0028.549 (0) Recording as successfully uploaded: backup_2017-09-20-1653_itfalansterby_blog_47cb7aa07e12-db.gz (b48fac55f2e88cdc1fb9f2e1cdb5f3b5)
+0028.649 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0028.674 (0) Number of backup sets in history: 1; groups (db): 1
+0028.699 (0) Examining (for databases) backup set with group_id=0, nonce=47cb7aa07e12, datestamp=1505915587 (Sep 20 2017 13:53:07)
+0028.724 (0) This backup set is the backup set just made, so will not be deleted.
+0028.724 (0) Number of backup sets in history: 1; groups (files): 1
+0028.749 (0) Examining (for files) backup set with nonce=47cb7aa07e12, datestamp=1505915587 (Sep 20 2017 13:53:07)
+0028.749 (0) This backup set is the backup set just made, so will not be deleted.
+0028.774 (0) This backup set is the backup set just made, so will not be deleted.
+0028.775 (0) This backup set is the backup set just made, so will not be deleted.
+0028.775 (0) This backup set is the backup set just made, so will not be deleted.
+0028.775 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0028.799 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0028.866 (0) Resume backup (47cb7aa07e12, 0): finish run
+0028.941 (0) Decremented the semaphore (fd) by 1
+0028.991 (0) Semaphore (fd) unlocked
+0029.016 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0029.109 (0) No email will/can be sent - the user has not configured an email address.
+0029.133 (0) The backup apparently succeeded and is now complete

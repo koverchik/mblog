@@ -1,0 +1,1081 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Readit Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-10 12:56+0000\n"
+"PO-Revision-Date: 2017-06-27 15:19+0000\n"
+"Last-Translator: Maryna Makarevich <marinamakarevich1@gmail.com>\n"
+"Language-Team: Belarusian\n"
+"Language: bel\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the template
+msgid "Page - Additional Sidebar 1"
+msgstr "Старонка - Дадатковая бакавая панэль 1"
+
+#: header.php:38
+msgid "Skip to content"
+msgstr "Перайсці да зместу"
+
+#: header.php:45
+msgid "120"
+msgstr "120"
+
+#: content-single.php:22 content.php:33 content-page.php:14
+#: content-masonry.php:34 content-typography.php:19
+msgid "Pages:"
+msgstr "Старонкі:"
+
+#. Name of the template
+msgid "Home - Masonry Fullscreen"
+msgstr "Home - Masonry Fullscreen"
+
+#: 404.php:27
+msgid "It looks like nothing was found at this location."
+msgstr "Нічога не знойдзена тут."
+
+#: content.php:24 content-masonry.php:25
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Працягнуць чытанне %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Name of the template
+msgid "Home - Masonry Sidebar"
+msgstr "Home - Masonry Sidebar"
+
+#: page-home-masonry-sidebar.php:17 page-home-masonry-no-sidebar.php:17
+#: page-home-hero-background.php:24 page-home-typography.php:17 index.php:23
+msgid "Welcome to Readit,"
+msgstr "Запрашаем у Readit,"
+
+#: page-home-masonry-sidebar.php:23 page-home-masonry-no-sidebar.php:23
+#: page-home-hero-background.php:30 page-home-typography.php:23 index.php:29
+msgid "a modern WordPress blog."
+msgstr "сучасны блог на WordPress."
+
+#. Name of the template
+msgid "Page - Additional Sidebar 5"
+msgstr "Старонка - дадатковая бакавая панэль 5"
+
+#: functions.php:67
+msgid "Primary Menu"
+msgstr "Галоўнае меню"
+
+#: functions.php:102
+msgid "Sidebar"
+msgstr "Бакавая панэль"
+
+#: functions.php:112
+msgid "Footer 1"
+msgstr "Футэр 1"
+
+#: functions.php:114
+msgid "Populate your first Footer area"
+msgstr "Запоўніце першую вобласць футэра"
+
+#: functions.php:122
+msgid "Footer 2"
+msgstr "Футэр 2"
+
+#: functions.php:124
+msgid "Populate your second Footer area"
+msgstr "Запоўніце другую вобласць футэра"
+
+#: functions.php:132
+msgid "Footer 3"
+msgstr "Футэр 3"
+
+#: functions.php:134
+msgid "Populate your third Footer area"
+msgstr "Запоўніце трэцюю вобласць футэра"
+
+#: functions.php:142
+msgid "Footer 4"
+msgstr "Футэр 4"
+
+#: functions.php:144
+msgid "Populate your fourth Footer area"
+msgstr "Запоўніце чацвёртую вобласць футэра"
+
+#: functions.php:152
+msgid "Addtional Sidebar 1"
+msgstr "Дадатковая бакавая панэль 1"
+
+#: functions.php:162
+msgid "Addtional Sidebar 2"
+msgstr "Дадатковая бакавая панэль 2"
+
+#: functions.php:172
+msgid "Addtional Sidebar 3"
+msgstr "Дадатковая бакавая панэль 3"
+
+#: functions.php:182
+msgid "Addtional Sidebar 4"
+msgstr "Дадатковая бакавая панэль 4"
+
+#: functions.php:192
+msgid "Addtional Sidebar 5"
+msgstr "Дадатковая бакавая панэль 5"
+
+#: functions.php:362
+msgctxt "Post Type General Name"
+msgid "Slides"
+msgstr "Слайды"
+
+#: functions.php:363
+msgctxt "Post Type Singular Name"
+msgid "Slide"
+msgstr "Слайд"
+
+#: functions.php:364
+msgid "Slides"
+msgstr "Слайды"
+
+#: functions.php:365
+msgid "Parent Item:"
+msgstr "Бацькоўская адзінка:"
+
+#: functions.php:366
+msgid "All Slides"
+msgstr "Усе слайды"
+
+#: functions.php:367
+msgid "View Slides"
+msgstr "Прагледзець слайды"
+
+#: functions.php:368
+msgid "Add New Slide"
+msgstr "Дадаць новы слайд"
+
+#: functions.php:369
+msgid "Add New"
+msgstr "Дадаць новы"
+
+#: functions.php:370
+msgid "Edit Slide"
+msgstr "Рэдагаваць слайд"
+
+#: functions.php:371
+msgid "Update Slide"
+msgstr "Абнавіць слайд"
+
+#: functions.php:372
+msgid "Search Slides"
+msgstr "Шукаць слайды"
+
+#: functions.php:373
+msgid "Not found"
+msgstr "Не знойдзена"
+
+#: functions.php:374
+msgid "Not found in Trash"
+msgstr "Не знойдзена ў Кошыку"
+
+#: functions.php:377
+msgid "slides"
+msgstr "слайды"
+
+#: functions.php:378
+msgid "Add a slide to your schedule."
+msgstr "Дадаць слайд у ваш расклад"
+
+#: functions.php:407
+msgid "Slide URL"
+msgstr "URL слайда"
+
+#: functions.php:414
+msgid "Enter URL"
+msgstr "Увесці URL"
+
+#. Name of the template
+msgid "Home - Slider"
+msgstr "Галоўная - Слайдэр"
+
+#. Name of the template
+msgid "Home - Masonry No Sidebar"
+msgstr "Галоўная - бакавая панэль без пліткі"
+
+#. Name of the template
+msgid "Home - Hero Background"
+msgstr "Галоўная - Hero Background"
+
+#. Name of the template
+msgid "Page - Left Sidebar"
+msgstr "Старонка - левая бакавая панэль"
+
+#. Name of the template
+msgid "Page - Additional Sidebar 4"
+msgstr "Старонка - дадатковая бакавая панэль 4"
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Адна думка пра &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s думак пра &ldquo;%2$s&rdquo;"
+
+#: comments.php:35 comments.php:56
+msgid "Comment navigation"
+msgstr "Навігацыя па каментарах"
+
+#: comments.php:38 comments.php:59
+msgid "Older Comments"
+msgstr "Старыя каментары"
+
+#: comments.php:39 comments.php:60
+msgid "Newer Comments"
+msgstr "Новыя каментары"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Каментары зачынены."
+
+#. Name of the template
+msgid "Page - Additional Sidebar 3"
+msgstr "Старонка - дадатковая бакавая панэль 5"
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Вынікі пошуку для: %s"
+
+#. Name of the template
+msgid "Page - Additional Sidebar 2"
+msgstr "Старонка - дадатковая бакавая панэль 2"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Нічога не знойдзена"
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Гатовы апублікаваць свой першы пост? <a href=\"%1$s\">Пачніце тут</a>."
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Выбачайце, але нічога не знойдзена па гэтай умове пошуку. Калі ласка, "
+"паспрабуйце яшчэ раз з іншымі ключавымі словамі."
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Здаецца, мы не можам знайсці тое, што вы шукаеце. Машчыма, пошук можа "
+"дапамагчы."
+
+#. Name of the template
+msgid "Page - Fullwidth"
+msgstr "Старонка - Поўная шырыня"
+
+#. Name of the template
+msgid "Home - Typography"
+msgstr "Галоўная - Тыпаграфіка"
+
+#: panel/readit-admin_page.php:14 panel/readit-admin_page.php:14
+msgid "Readit Theme Details"
+msgstr "Падрабязнасці тэмы Readit"
+
+#: panel/readit-admin_page.php:19
+msgid "Thank you for using Readit Pro!"
+msgstr "Дзякуй за выкарыстанне Readit Pro!"
+
+#: panel/readit-admin_page.php:23
+msgid "Readit Theme Setup"
+msgstr "Налады тэмы Readit"
+
+#: panel/readit-admin_page.php:27
+msgid ""
+"We created a quick theme setup video to help you get started with Readit Pro."
+" Watch the video with the link below"
+msgstr ""
+"Мы стварылі відэа пра хуткія налады тэмы, каб вы маглі пачаць працу з Readit "
+"Pro. Глядзіце відэа па спасылцы ніжэй"
+
+#: panel/readit-admin_page.php:31
+msgid "View Video"
+msgstr "Глядзець відэа"
+
+#: panel/readit-admin_page.php:35
+msgid "Documentation"
+msgstr "Дакументацыя"
+
+#: panel/readit-admin_page.php:39
+msgid ""
+"Check out our Readit documentation to learn how to use your Readit Pro theme."
+" Click the link below."
+msgstr ""
+"Паглядзіце дакументацыю Readit, каб даведацца, як выкарыстоўваць тэму Readit "
+"Pro. Перайдзіце па спасылцы ніжэй."
+
+#: panel/readit-admin_page.php:43
+msgid "Read Docs"
+msgstr "Чытаць дакументацыю"
+
+#: panel/readit-admin_page.php:47
+msgid "About ModernThemes"
+msgstr "Пра ModernThemes"
+
+#: panel/readit-admin_page.php:51
+msgid ""
+"Want to learn more about ModernThemes? Let us help you at modernthemes.net."
+msgstr ""
+"Хочаце даведацца больш пра ModernThemes? Мы дапаможам вам на modernthemes."
+"net."
+
+#: panel/readit-admin_page.php:55
+msgid "About Us"
+msgstr "Пра нас"
+
+#: panel/readit-admin_page.php:59
+msgid "Premium Membership. Premium Experience."
+msgstr "Прэміяльнае членства. Прэміяльны вопыт."
+
+#: panel/readit-admin_page.php:63
+msgid "Plugin Compatibility"
+msgstr "Сумяшчальнасць плагіна"
+
+#: panel/readit-admin_page.php:67
+msgid ""
+"Use our new free plugins with this theme to add functionality for things "
+"like projects, clients, team members and more. Compatible with all premium "
+"themes!"
+msgstr ""
+"Выкарыстоўвайце з гэтай тэмай нашы новыя бясплатныя плагіны, каб дадаць "
+"функцыянальныя магчымасці для праектаў, кліентаў, членаў каманды і іншых "
+"рэчаў. Сумяшчальнасць з усімі прэміяльнымі тэмамі!"
+
+#: panel/readit-admin_page.php:71
+msgid "Agency Designed Themes"
+msgstr "Тэмы, распрацаваныя агенцтвам"
+
+#: panel/readit-admin_page.php:75
+msgid ""
+"Look as good as can be with our new premium themes. Each one is agency "
+"designed with modern styles and professional layouts."
+msgstr ""
+"Даведайцеся пра прэміяльныя тэмы з сучасным дызайнам і прафесійнымі "
+"шаблонамі."
+
+#: panel/readit-admin_page.php:79
+msgid "Membership Options"
+msgstr "Опцыі членства"
+
+#: panel/readit-admin_page.php:83
+msgid ""
+"We have options to fit every budget. Choose between a single theme, or "
+"access to all current and future themes for a year, or forever!"
+msgstr ""
+"Мы маем варыянты для розных бюджэтаў. Зрабіце выбар паміж адной тэмай ці "
+"доступам да ўсіх наяўных і будучых тэм на год, ці назаўсёды!"
+
+#: panel/readit-admin_page.php:87
+msgid "Access to New Themes"
+msgstr "Доступ да новых тэм"
+
+#: panel/readit-admin_page.php:91
+msgid ""
+"New themes added monthly! When you purchase a premium membership you get "
+"access to all premium themes, with new themes added monthly."
+msgstr ""
+"Новыя тэмы дадаюцца штомесяц! Пасля атрымання прэміум-членства вы "
+"атрымліваеце доступ да ўсіх прэміяльных тэм."
+
+#: panel/readit-admin_page.php:96
+msgid "Get Premium Membership"
+msgstr "Атрымаць прэміяльнае членства"
+
+#: panel/readit-admin_page.php:101
+msgid "Changelog"
+msgstr "Гісторыя зменаў"
+
+#: panel/readit-admin_page.php:105
+msgid "1.1.5 - Fix: added proper string for querying the date on single.php"
+msgstr ""
+"1.1.5 - Выпраўлена: дададзены правільны радок для запыту даты ў single.php"
+
+#: panel/readit-admin_page.php:109
+msgid "1.1.4 - Fix: number input bug in theme customizer"
+msgstr "1.1.4 - Выпраўлена: баг ва ўводзе лічбаў у наладах тэмы."
+
+#: panel/readit-admin_page.php:113
+msgid ""
+"1.1.3 - Update: Tested with WordPress 4.5, Updating Font Awesome icons to 4."
+"6, Added Snapchat and Weibo social icon options"
+msgstr ""
+"1.1.3 - Абнаўленне: пратэсціравана з WordPress 4.5, іконкі Font Awesome "
+"абноўлены да 4.6, дададзены Snapchat і налады Weibo для сацыяльных іконак."
+
+#: panel/readit-admin_page.php:117
+msgid ""
+"1.1.2 - Update: adds one-click option to add Child Theme. Go to Appearance =>"
+" Editor and activate child theme from notification."
+msgstr ""
+"1.1.2 - Абнаўленне: дададзена магчымасць усталёўваць даччыную тэмы адным "
+"клікам. Перайдзіце ў Знешні выгляд => Рэдактар і актывуйце тэму з "
+"апавяшчэння."
+
+#: panel/readit-admin_page.php:121
+msgid "1.1.1 - Update: blog will now go fullwidth if no sidebar is active"
+msgstr ""
+"1.1.1 - Абнаўленне: пры неактыўнай бакавой панэлі блог цяпер будзе "
+"адлюстроўвацца на ўсю шырыню."
+
+#: panel/readit-admin_page.php:125
+msgid "1.1.0 - style updates to Comments section"
+msgstr "1.1.0 - абноўлены стылі да секцыі каментароў"
+
+#: panel/readit-admin_page.php:129
+msgid "1.0.10 - added new Home Page Hero Background Template"
+msgstr ""
+"1.0.10 - дададзены новы шаблон для галоўнай старонкі Hero Background Template"
+
+#: panel/readit-admin_page.php:133
+msgid "1.0.9 - added new Font Awesome 4.5 icons"
+msgstr "1.0.9 - дададзены новыя іконкі Font Awesome 4.5"
+
+#: panel/readit-admin_page.php:137
+msgid "1.0.8 - new theme update method added"
+msgstr "1.0.8 - дададзены новы метад абнаўлення тэмы"
+
+#: panel/readit-admin_page.php:141
+msgid ""
+"1.0.7 - added Navigation section that was deleted when WordPress switched to "
+"4.3. Removed color options from Menu Locations."
+msgstr ""
+"1.0.7 - дададзена секцыя навігацыі, якая была выдалена, калі WordPress "
+"абнавіўся да 4.3. Прыбраныя налады колераў з абласцей меню."
+
+#: panel/readit-admin_page.php:145
+msgid "1.0.6 - bug fixes"
+msgstr "1.0.6 - выпраўлены багі"
+
+#: panel/readit-admin_page.php:149
+msgid "1.0.5 - updated Font Awesome icons"
+msgstr "1.0.5 - абноўлены іконкі Font Awesome"
+
+#: panel/readit-admin_page.php:153
+msgid "1.0.0 - New Theme!"
+msgstr "1.0.0 - Новая тэма!"
+
+#: widgets/video-widget.php:13
+msgid "Video for your sidebar."
+msgstr "Відэа для бакавой панэлі"
+
+#: widgets/video-widget.php:15
+msgid "MT: Video Widget"
+msgstr "MT: відэа віджэт"
+
+#: widgets/video-widget.php:49 widgets/contact-info.php:53
+msgid "Title"
+msgstr "Назва"
+
+#: widgets/video-widget.php:57
+msgid ""
+"Paste the URL of the video (only from a network that supports oEmbed, like "
+"Youtube, Vimeo etc.):"
+msgstr ""
+"Устаўце URL відэа (толькі з сеткі, якая падтрымлівае oEmbed, напрыклад "
+"Youtube, Vimeo і г.д.):"
+
+#: widgets/video-widget.php:151
+msgid "Video"
+msgstr "Відэа"
+
+#: widgets/contact-info.php:13
+msgid "Display your contact info"
+msgstr "Паказваць кантактную інфармацыю"
+
+#: widgets/contact-info.php:15
+msgid "MT: Contact Info Widget"
+msgstr "MT: віджэт кантактнай інфармацыі"
+
+#: widgets/contact-info.php:61
+msgid "Enter your address"
+msgstr "Увядзіце свой адрас"
+
+#: widgets/contact-info.php:67
+msgid "Enter your phone number"
+msgstr "Увядзіце свой нумар тэлефона"
+
+#: widgets/contact-info.php:73
+msgid "Enter your email address"
+msgstr "Увядзіце свой email"
+
+#: widgets/contact-info.php:171
+msgid "Contact info"
+msgstr "Кантактная інфармацыя"
+
+#: widgets/contact-info.php:195
+msgid "Address: "
+msgstr "Адрас:"
+
+#: widgets/contact-info.php:205
+msgid "Phone: "
+msgstr "Тэлефон:"
+
+#: widgets/contact-info.php:215
+msgid "Email: "
+msgstr "Email: "
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Навігацыя па запісах"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Старыя запісы"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Новыя запісы"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Навігацыя па запісе"
+
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Апублікавана %s"
+
+#: inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "ад %s"
+
+#. used between list items, there is a space after the comma
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:108 inc/template-tags.php:114
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:110
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Апублікавана ў %1$s"
+
+#: inc/template-tags.php:116
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Пазначана %1$s"
+
+#: inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "Пакінуць каментар"
+
+#: inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "1 каментар"
+
+#: inc/template-tags.php:122
+msgid "% Comments"
+msgstr "Каментароў: %"
+
+#: inc/template-tags.php:126
+msgid "Edit"
+msgstr "Рэдагаваць"
+
+#: inc/template-tags.php:143
+#, php-format
+msgid "Category: %s"
+msgstr "Катэгорыя: %s"
+
+#: inc/template-tags.php:145
+#, php-format
+msgid "Tag: %s"
+msgstr "Тэг: %s"
+
+#: inc/template-tags.php:147
+#, php-format
+msgid "Author: %s"
+msgstr "Аўтар: %s"
+
+#: inc/template-tags.php:149
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:151
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:153
+#, php-format
+msgid "Day: %s"
+msgstr "Дзень: %s"
+
+#: inc/template-tags.php:153
+msgctxt "readit archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Адступленні"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галерэі"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Выявы"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Відэа"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цытаты"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Спасылкі"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статусы"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аўдыё"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Чаты"
+
+#: inc/template-tags.php:175
+#, php-format
+msgid "Archives: %s"
+msgstr "Архівы: %s"
+
+#. 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:181
+msgid "Archives"
+msgstr "Архівы"
+
+#: inc/use-child-theme.php:80
+#, php-format
+msgid "Please use a %s child theme to make changes"
+msgstr "Калі ласка, выкарыстоўвайце даччыную тэму %, каб унесці змены"
+
+#: inc/use-child-theme.php:81
+msgid "Activate now"
+msgstr "Актывізаваць зараз"
+
+#: inc/use-child-theme.php:128
+msgid "All done!"
+msgstr "Усё зроблена!"
+
+#: inc/use-child-theme.php:149
+msgid "Error: theme folder not writable"
+msgstr "Памылка: тэчка тэмы не даступная для запісу"
+
+#. Name of the theme
+#: inc/customizer.php:30
+msgid "Readit Pro"
+msgstr "Readit Pro"
+
+#: inc/customizer.php:32
+msgid ""
+"We created a quick theme setup video to help you get started with Readit Pro."
+" Watch the video by clicking the link below.</br></br><a href=\"http:"
+"//modernthemes.net/documentation/readit-documentation/readit-quick-demo-"
+"import/\" target=\"_blank\">View Video</a>"
+msgstr ""
+"Мы стварылі відэа пра хуткія налады, каб вы маглі пачаць працу з Readit Pro. "
+"Каб паглядзець відэа, перайдзіце па спасылцы ніжэй.</br></br><a href=\"http:"
+"//modernthemes.net/documentation/readit-documentation/readit-quick-demo-"
+"import/\" target=\"_blank\">Паглядзець відэа</a>"
+
+#: inc/customizer.php:54
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/customizer.php:159
+msgid ""
+"Select your desired font for the headings. Montserrat is the default Heading "
+"font."
+msgstr ""
+"Выберыце шрыфт для загалоўкаў. Montserrat - шрыфт для загалоўкаў па "
+"змаўчанні."
+
+#: inc/customizer.php:176
+msgid ""
+"Select your desired font for the body. Playfair Display is the default Body "
+"font."
+msgstr ""
+"Выберыце шрыфт для асноўнага зместу. Playfair Display - шрыфт для зместу па "
+"змаўчанні."
+
+#: inc/customizer.php:189
+msgid "Text Color"
+msgstr "Колер тэксту"
+
+#: inc/customizer.php:201
+msgid "Link Color"
+msgstr "Колер спасылак"
+
+#: inc/customizer.php:213
+msgid "Hover Color"
+msgstr "Колер пры навядзенні"
+
+#: inc/customizer.php:225
+msgid "Site Title Color"
+msgstr "Колер назвы сайта"
+
+#: inc/customizer.php:237
+msgid "Theme Color"
+msgstr "Колер тэмы"
+
+#: inc/customizer.php:246
+msgid "Navigation"
+msgstr "Навігацыя"
+
+#: inc/customizer.php:257
+msgid "Menu Background Color"
+msgstr "Колер фону меню"
+
+#: inc/customizer.php:265
+msgid "Logo and Icons"
+msgstr "Лагатып і іконкі"
+
+#: inc/customizer.php:267
+msgid ""
+"Upload a logo to replace the default site name and description in the header."
+" Also, upload your site favicon and Apple Icons."
+msgstr ""
+"Загрузіце лагатып, каб змяніць назву сайта па змаўчанні і апісанне ў "
+"загалоўку. Таксама загрузіце фавікон сайта і іконкі Apple."
+
+#: inc/customizer.php:275
+msgid "Logo"
+msgstr "Лагатып"
+
+#: inc/customizer.php:293
+msgid "Change the width of the Logo in PX."
+msgstr "Змяніць шырыню лагатыпа ў PX."
+
+#: inc/customizer.php:294
+msgid "Only enter numeric value"
+msgstr "Увядзіце толькі лікавае значэнне"
+
+#: inc/customizer.php:310
+msgid "Upload your favicon (16x16 pixels)"
+msgstr "Загрузіце фавікон (16x16 px)"
+
+#: inc/customizer.php:331
+msgid "Upload your Apple Touch Icon (144x144 pixels)"
+msgstr "Загрузіце іконку Apple Touch (144x144 px)"
+
+#: inc/customizer.php:352
+msgid "Upload your Apple Touch Icon (114x114 pixels)"
+msgstr "Загрузіце іконку Apple Touch (114x114 px)"
+
+#: inc/customizer.php:373
+msgid "Upload your Apple Touch Icon (72x72 pixels)"
+msgstr "Загрузіце іконку Apple Touch (72x72 px)"
+
+#: inc/customizer.php:394
+msgid "Upload your Apple Touch Icon (57x57 pixels)"
+msgstr "Загрузіце іконку Apple Touch (57x57 px)"
+
+#: inc/customizer.php:408
+msgid "Social Media Section"
+msgstr "Раздзел сацыяльных сетак"
+
+#: inc/customizer.php:409
+msgid "Edit your social media icons"
+msgstr "Рэдагаваць іконкі сацсетак"
+
+#: inc/customizer.php:414
+msgid "Social Media Icons"
+msgstr "Іконкі сацсетак"
+
+#: inc/customizer.php:429
+msgid "Hide Social Section"
+msgstr "Схаваць раздзел сацсетак"
+
+#: inc/customizer.php:441
+msgid "Social Icon Color"
+msgstr "Колер сацыяльных іконак"
+
+#: inc/customizer.php:453
+msgid "Social Icon Hover Color"
+msgstr "Колер сацыяльных іконак пры навядзенні"
+
+#: inc/customizer.php:471
+msgid "Open links in new window?"
+msgstr "Адкрываць спасылкі ў новым акне?"
+
+#: inc/customizer.php:483
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+#: inc/customizer.php:496
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+#: inc/customizer.php:509
+msgid "LinkedIn URL:"
+msgstr "LinkedIn URL:"
+
+#: inc/customizer.php:522
+msgid "Google Plus URL:"
+msgstr "Google Plus URL:"
+
+#: inc/customizer.php:535
+msgid "Instagram URL:"
+msgstr "Instagram URL:"
+
+#: inc/customizer.php:548
+msgid "Snapchat URL:"
+msgstr "Snapchat URL:"
+
+#: inc/customizer.php:561
+msgid "Vine URL:"
+msgstr "Vine URL:"
+
+#: inc/customizer.php:574
+msgid "Flickr URL:"
+msgstr "Flickr URL:"
+
+#: inc/customizer.php:587
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+#: inc/customizer.php:600
+msgid "YouTube URL:"
+msgstr "YouTube URL:"
+
+#: inc/customizer.php:613
+msgid "Vimeo URL:"
+msgstr "Vimeo URL:"
+
+#: inc/customizer.php:626
+msgid "Tumblr URL:"
+msgstr "Tumblr URL:"
+
+#: inc/customizer.php:639
+msgid "Dribbble URL:"
+msgstr "Dribbble URL:"
+
+#: inc/customizer.php:652
+msgid "Behance URL:"
+msgstr "Behance URL:"
+
+#: inc/customizer.php:665
+msgid "500px URL:"
+msgstr "500px URL:"
+
+#: inc/customizer.php:678
+msgid "VK URL:"
+msgstr "VK URL:"
+
+#: inc/customizer.php:691
+msgid "Yelp URL:"
+msgstr "Yelp URL:"
+
+#: inc/customizer.php:704
+msgid "Xing URL:"
+msgstr "Xing URL:"
+
+#: inc/customizer.php:717
+msgid "Skype URL:"
+msgstr "Skype URL:"
+
+#: inc/customizer.php:730
+msgid "DeviantArt URL:"
+msgstr "DeviantArt URL:"
+
+#: inc/customizer.php:743
+msgid "Reddit URL:"
+msgstr "Reddit URL:"
+
+#: inc/customizer.php:756
+msgid "Github URL:"
+msgstr "Github URL:"
+
+#: inc/customizer.php:769
+msgid "Codepen URL:"
+msgstr "Codepen URL:"
+
+#: inc/customizer.php:782
+msgid "Spotify URL:"
+msgstr "Spotify URL:"
+
+#: inc/customizer.php:795
+msgid "SoundCloud URL:"
+msgstr "SoundCloud URL:"
+
+#: inc/customizer.php:808
+msgid "lastFM URL:"
+msgstr "lastFM URL:"
+
+#: inc/customizer.php:821
+msgid "StumbleUpon URL:"
+msgstr "StumbleUpon URL:"
+
+#: inc/customizer.php:834
+msgid "Weibo URL:"
+msgstr "Weibo URL:"
+
+#: inc/customizer.php:847
+msgid "Phone Number:"
+msgstr "Нумар тэлефона:"
+
+#: inc/customizer.php:860
+msgid "Email:"
+msgstr "Email:"
+
+#: inc/customizer.php:873
+msgid "RSS URL:"
+msgstr "RSS URL:"
+
+#: inc/customizer.php:884
+msgid "Headline"
+msgstr "Загаловак"
+
+#: inc/customizer.php:886
+msgid "Enter your own headline content"
+msgstr "Увядзіце змест загалоўка"
+
+#: inc/customizer.php:897
+msgid "Headline Text"
+msgstr "Тэкст загалоўка"
+
+#: inc/customizer.php:911
+msgid "Headline Subtext"
+msgstr "Дадатковы тэкст загалоўка"
+
+#: inc/customizer.php:923
+msgid "Header Color"
+msgstr "Колер верхняй панэлі"
+
+#: inc/customizer.php:935
+msgid "Headline Text Color"
+msgstr "Колер тэксту загалоўка"
+
+#: inc/customizer.php:943
+msgid "Footer"
+msgstr "Футэр"
+
+#: inc/customizer.php:945
+msgid "Customize your footer area"
+msgstr "Наладзьце вобласць футэра"
+
+#: inc/customizer.php:955
+msgid "Footer Byline Text"
+msgstr "Колер імя аўтара ў футэры"
+
+#: inc/customizer.php:967
+msgid "Footer Text Color"
+msgstr "Колер тэксту футэра"
+
+#: inc/customizer.php:979
+msgid "Footer Link Color"
+msgstr "Колер спасылак у футэры"
+
+#: inc/customizer.php:991
+msgid "Footer Background Color"
+msgstr "Колер фону футэра"
+
+#: inc/customizer.php:999
+msgid "Animations"
+msgstr "Анімацыі"
+
+#: inc/customizer.php:1001
+msgid "We can make things fly across the screen."
+msgstr "Мы можам зрабіць, каб рэчы лёталі па ўсім экране."
+
+#: inc/customizer.php:1015
+msgid "Check this box if you want to disable the animations."
+msgstr "Адзначце гэты сцяжок, каб адключыць анімацыю."
+
+#: inc/customizer.php:1022
+msgid "Blog Layout"
+msgstr "Шаблон блога"
+
+#: inc/customizer.php:1024
+msgid "Change how readit displays posts"
+msgstr "Выберыце, як readit будзе выводзіць запісы"
+
+#: inc/customizer.php:1033
+msgid "Post content"
+msgstr "Змест запісу"
+
+#: inc/customizer.php:1055
+msgid "Excerpt length"
+msgstr "Даўжыня ўрыўка"
+
+#: inc/customizer.php:1056
+msgid "Choose your excerpt length here. Default: 40 words"
+msgstr "Выберыце даўжыню ўрыўка тут. Па змаўчанні: 40 слоў"
+
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr "Старонка %s"
+
+#. Description of the theme
+msgid ""
+"Readit Pro is a responsive WordPress theme that is perfect for bloggers who "
+"love readability and clean design. Readit comes with a unique blog entry "
+"design that is perfect for visual readers and multiple blog archive layouts. "
+"Check out the theme at https://modernthemes.net/wordpress-themes/readit-pro/"
+msgstr ""
+"Readit Pro - зручная WordPress тэма для блогераў, якія любяць чысты дызайн і "
+"лёгкасць у прачытанні. Readit мае ўнікальны блогавы дызайн з мноствам "
+"шаблонаў для архіваў запісаў. Паспрабуйце тэму тут https://modernthemes."
+"net/wordpress-themes/readit-pro/"
+
+#. URI of the theme
+msgid "https://modernthemes.net/wordpress-themes/readit-pro/"
+msgstr "https://modernthemes.net/wordpress-themes/readit-pro/"
+
+#. Author of the theme
+msgid "ModernThemes"
+msgstr "ModernThemes"
+
+#. Author URI of the theme
+msgid "https://modernthemes.net/"
+msgstr "https://modernthemes.net/"
