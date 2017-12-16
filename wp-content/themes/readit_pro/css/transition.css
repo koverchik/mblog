@@ -165,7 +165,7 @@ button.trigger span::before {
 }
 
 .content > div:not(.title) {
-	margin: -100px auto 0;
+	margin: 0px auto 0;
 	max-width: 900px;
 	padding: 0 1.25em;
 }
@@ -387,6 +387,10 @@ button.trigger span::before {
 
 .intro-effect-fadeout .header {
 	overflow: hidden;
+}
+
+.intro-effect-fadeout.modify .header {
+	height: auto;
 }
 
 .intro-effect-fadeout.modify .bg-img {
@@ -1198,6 +1202,34 @@ button.trigger span::before {
 }
 
 /* Media Queries */
+@media screen and (max-width: 64em) {
+    button.trigger {
+		height:100%;
+        width:100%;
+        top:0;
+        left:0;
+        margin-left: 0;
+	}
+    button.trigger  span{
+        position: absolute;
+        overflow: visible;    
+		height:1em;
+        width: 100%;
+        bottom: 1em;
+        left:0;
+	}
+    button.trigger  span::before{
+        position: absolute;
+        overflow: visible;    
+		height:1em;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+	}
+    button.trigger::before {
+		content: '';
+	}
+}
 @media screen and (max-width: 47em) {
 	.content {
 		font-size: 90%;
