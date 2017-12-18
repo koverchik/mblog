@@ -674,7 +674,7 @@ a:active {
 }
 
 .comment-navigation .nav-previous,
-.posts-navigation .nav-previous
+.posts-navigation .nav-previous a
  {
 	font-family: 'Montserrat',Helvetica Neue,Helvetica,Arial,sans-serif;
 	float: left;
@@ -689,7 +689,7 @@ a:active {
 }
 
 .comment-navigation .nav-next,
-.posts-navigation .nav-next
+.posts-navigation .nav-next a
  {
 	font-family: 'Montserrat',Helvetica Neue,Helvetica,Arial,sans-serif;
 	float: right;

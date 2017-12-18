@@ -285,7 +285,7 @@ html, body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin: .2em 0;
-  text-transform: capitalize;
+  text-transform: none;
 }
 .cd-primary-nav a {
   color: #e0e0e0;
