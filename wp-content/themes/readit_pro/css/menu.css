@@ -144,7 +144,7 @@ html, body {
 .cd-primary-nav-trigger {
   position: absolute;
   right: 10px;
-  top: 0;
+  top: 0px;
   height: 30px;
   width: 50px;
   margin-top: -20px;

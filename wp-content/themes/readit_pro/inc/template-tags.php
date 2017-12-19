@@ -56,8 +56,9 @@ function readit_the_post_navigation() {
 		<h2 class="screen-reader-text"><?php _e( 'Post navigation', 'readit' ); ?></h2>
 		
 			<?php
-				previous_post_link( '<div class="nav-previous">%link</div>', '<i class="fa fa-angle-left"></i>' );
-				next_post_link( '<div class="nav-next">%link</div>', '<i class="fa fa-angle-right"></i>' );
+				previous_post_link( '<div class="nav-next">%link</div>', '<i class="fa fa-angle-right"></i>'  );
+	'<div class="nav-previous">%link</div>', '<i class="fa fa-angle-left"></i>'
+				next_post_link(<div class="nav-previous">%link</div>', '<i class="fa fa-angle-left"></i>');
 			?>
 		 
 	</nav><!-- .navigation --> 
