@@ -58,7 +58,7 @@ function readit_the_post_navigation() {
 			<?php
 				previous_post_link( '<div class="nav-next">%link</div>', '<i class="fa fa-angle-right"></i>'  );
 	
-				next_post_link(<div class="nav-previous">%link</div>', '<i class="fa fa-angle-left"></i>');
+				next_post_link('<div class="nav-previous">%link</div>', '<i class="fa fa-angle-left"></i>');
 			?>
 		 
 	</nav><!-- .navigation --> 
