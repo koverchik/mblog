@@ -80,7 +80,7 @@
 					if( noscroll && !ie ) {
 						if( scrollVal < 0 ) return false;
 						// keep it that way
-						window.scrollTo( 0, 0 );
+						//window.scrollTo( 0, 0 );
 					}
 
 					if( classie.has( container, 'notrans' ) ) {
