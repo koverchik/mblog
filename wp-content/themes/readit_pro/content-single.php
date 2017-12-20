@@ -7,6 +7,7 @@
 <div id="container" class="container intro-effect-fadeout">
 	<header class="header">
 	 	<div class="bg-img"><?php the_post_thumbnail(); ?></div>
+		<div class="background_black"></div>
 		<div class="title animate-plus" data-animations="fadeIn" data-animation-when-visible="true" data-animation-delay="0.5s">
 			<?php the_title( '<h1>', '</h1>' ); ?>
 			<p class="subline"><?php readit_posted_on(); ?></p>
