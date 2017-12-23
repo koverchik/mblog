@@ -805,6 +805,8 @@ a:active {
 }
 
 .widget-title {
+	margin: 0px;
+	color: #333333;
 	font-size: 14px;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
@@ -842,7 +844,7 @@ a:active {
 
 .site-footer {
     background: none repeat scroll 0 0 #222;
-    color: #b9babe;
+    color: #333333;
     padding: 30px;
 }
 
