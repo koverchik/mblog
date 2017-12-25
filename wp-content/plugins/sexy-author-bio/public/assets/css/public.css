@@ -54,6 +54,9 @@ display: inline;
     clear: both;
     }
     #sab-social-wrapper { 
+    position: absolute;
+    left: 100px;
+    top: 55px;
     float: none; 
     }
     #sab-social-wrapper a img {

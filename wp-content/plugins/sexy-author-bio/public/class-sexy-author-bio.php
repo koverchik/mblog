@@ -502,17 +502,7 @@ class Sexy_Author_Bio {
 
 					// END AUTHOR SCHEMA
 
-				if($settings['icon_position'] == "top"){
-
-					$iconset = $settings['pick_icon_set'];
-
-					$output['content'] .= '<div id="sab-social-wrapper">';
-
-					include 'icons-coauthor.php';
-
-					$output['content'] .= '</div>';
-
-				}
+		
 
 				if ( $settings['author_links'] == "not_linked" ){ 
 
@@ -546,7 +536,18 @@ class Sexy_Author_Bio {
 					else if ( $showseparator && $showjobtitle || $showcompany ){
 						$output['content'] .= '<div id="sab-byline">'.$showjobtitle.$showcompany.'</div>';
 					}
+                
+                if($settings['icon_position'] == "top"){
 
+					$iconset = $settings['pick_icon_set'];
+
+					$output['content'] .= '<div id="sab-social-wrapper">';
+
+					include 'icons-coauthor.php';
+
+					$output['content'] .= '</div>';
+
+				}
 
 				$output['content'] .= '<div id="sab-description">' . do_shortcode( nl2br( $sab_coauthor->description ) ) . '</div>';
 
@@ -748,6 +749,17 @@ class Sexy_Author_Bio {
 			}else{
 				$html .= '<img alt="'.get_the_author().'" src="'.get_the_author_meta('avatar-url').'" />';
 			}
+            
+            	if($settings['icon_position'] == "top"){
+
+				$html .= '<div id="sab-social-wrapper-mobile">';
+
+				include 'icons-standard.php';
+
+				$html .= '</div>';
+
+			}
+            
 			$html .= '</a></div>'.$titleline.'<div id="sab-description">' . do_shortcode( nl2br( apply_filters( 'sexyauthorbio_author_description', get_the_author_meta( 'description' ) ) ) ) . '</div>';
 			
 			if($settings['icon_position'] == "bottom"){
