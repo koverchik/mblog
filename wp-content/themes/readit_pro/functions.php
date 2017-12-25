@@ -220,6 +220,8 @@ add_action( 'widgets_init', 'readit_widgets_init' );
  */
 function readit_scripts() {
 	wp_enqueue_style( 'readit-style', get_stylesheet_uri() );
+    
+    wp_enqueue_style( 'readit-subscribe', get_template_directory_uri() . '/css/subscribe.css' );
 	
 	$headings_font = esc_html(get_theme_mod('headings_fonts'));
 	$body_font = esc_html(get_theme_mod('body_fonts'));
@@ -258,8 +260,8 @@ function readit_scripts() {
 
 	if ( is_single() ) { 
 	
-	wp_enqueue_style( 'readit-transition', get_template_directory_uri() . '/css/transition.css' );
-	
+	wp_enqueue_style( 'readit-transition', get_template_directory_uri() . '/css/transition.css' );    
+   
 	wp_enqueue_script( 'readit-transition', get_template_directory_uri() . '/js/transition.script.js', array(), false, true );
 	
 	} 
