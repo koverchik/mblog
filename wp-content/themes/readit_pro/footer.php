@@ -9,7 +9,34 @@
 ?>
 
 	</div><!-- #content -->
-
+ 
+    <div class="subscribe-form">  
+        <div class="grid grid-pad subscribe-form_wrapper">
+            <div id="mc_embed_signup">
+            
+                <form action="https://falanster.us6.list-manage.com/subscribe/post?u=a85c8705ea30c06ccde479258&amp;id=53758bd248" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    
+                    <div id="mc_embed_signup_scroll">
+                    
+                        <label for="mce-EMAIL">Падпіcацца на рассылку</label>
+                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                    
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                            <input type="text" name="b_a85c8705ea30c06ccde479258_53758bd248" tabindex="-1" value="">
+                        </div>
+                        
+                        <input type="submit" value="Падпіcацца" name="subscribe" id="mc-embedded-subscribe" class="button">
+                    
+                        
+                    </div>
+                    
+                </form>
+                
+            </div>
+        </div>
+    </div>
+    
+    
 	<footer id="colophon" class="site-footer" role="contentinfo">
     
     	<div class="grid grid-pad">
