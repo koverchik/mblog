@@ -1,5 +1,5 @@
 #sexy-author-bio{
-padding: 10px;
+padding: 20px 20px 20px 30px;
 margin: 0px;
 }
 #sexy-author-bio:after{
@@ -26,15 +26,15 @@ text-decoration: underline;
 }
 #sab-gravatar{
 float: left;
-margin: 0 10px 10px 0;
+margin: 0 20px 10px 0;
 }
 #sab-gravatar img{
-float: left;
-border: solid 1px;
-background-color: #FFF;
+    float: left;
+    border: solid 1px;
+    background-color: #FFF;
 }
 #sab-social-wrapper a img {
-display: inline;
+    display: inline;
 }
 #sexy-author-bio .bio-icon{filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);opacity:1;-webkit-transition:all 0.4s ease;-moz-transition:all 0.4s ease;-o-transition:all 0.4s ease;transition:all 0.4s ease;background-color:transparent;}
 #sexy-author-bio .bio-icon:hover{filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=70);opacity:0.7}
@@ -43,27 +43,31 @@ display: inline;
 #sab-social-wrapper a, #sexy-author-bio a, #sexy-author-bio div a { box-shadow: none; }
 @media only screen and (max-width: 767px) { 
 	#sab-author {
-    width: 100%;
-    padding: 0;
-    margin: 0;
+        width: 100%;
+        padding-bottom: 20px;
+        margin: 0;
     }
     #sab-author a {
-    width: 100%;
+        width: 100%;
     }
     #sab-author, #sab-byline {
-    clear: both;
+        clear: both;
     }
     #sab-social-wrapper { 
-    position: absolute;
-    left: 100px;
-    top: 55px;
-    float: none; 
+        position: absolute;
+        left: 100px;
+        top: 55px;
+        float: none; 
     }
     #sab-social-wrapper a img {
-    float: left;
+        float: left;
     }
     #sab-social-wrapper a img { 
-	margin-bottom: 10px;
-	margin-top: 10px; 
+        margin-bottom: 10px;
+        margin-top: 10px; 
 	}
+    #sab-description {
+        padding-top:15px;
+        padding-bottom:10px;
+    }
 }
