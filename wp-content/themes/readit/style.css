@@ -804,7 +804,9 @@ a:active {
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
 }
-
+.contact-phone span {
+	margin-right: 8px;
+}
 /*--------------------------------------------------------------
 10.0 Content
 --------------------------------------------------------------*/
