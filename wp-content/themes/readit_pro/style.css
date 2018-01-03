@@ -1825,3 +1825,8 @@ body {
 
 	
 }
+/*------------------custom css -------------------------*/
+
+.entry-title a {
+    word-break: break-word;
+}
