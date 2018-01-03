@@ -99,7 +99,7 @@ html {
 	font-family: sans-serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust:     100%;
-	overflow-x: hidden;
+	
 }
 
 * { 
@@ -674,7 +674,7 @@ a:active {
 }
 
 .comment-navigation .nav-previous,
-.posts-navigation .nav-previous
+.posts-navigation .nav-previous a
  {
 	font-family: 'Montserrat',Helvetica Neue,Helvetica,Arial,sans-serif;
 	float: left;
@@ -689,7 +689,7 @@ a:active {
 }
 
 .comment-navigation .nav-next,
-.posts-navigation .nav-next
+.posts-navigation .nav-next a
  {
 	font-family: 'Montserrat',Helvetica Neue,Helvetica,Arial,sans-serif;
 	float: right;
@@ -805,9 +805,14 @@ a:active {
 }
 
 .widget-title {
+	margin: 0px;
+	color: #333333;
 	font-size: 14px;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
+}
+.contact-phone span {
+	margin-right: 8px;
 }
 
 /*--------------------------------------------------------------
@@ -842,7 +847,7 @@ a:active {
 
 .site-footer {
     background: none repeat scroll 0 0 #222;
-    color: #b9babe;
+    color: #333333;
     padding: 30px;
 }
 

@@ -45,6 +45,13 @@ html, body, .container, .header {
 	width: auto;
 }
 
+.background_black{
+	background: rgba(0, 0, 0, 0.35);
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
 .title {
 	z-index: 1000;
 	margin: 0 auto;
@@ -165,7 +172,7 @@ button.trigger span::before {
 }
 
 .content > div:not(.title) {
-	margin: -100px auto 0;
+	margin: 0px auto 0;
 	max-width: 900px;
 	padding: 0 1.25em;
 }
@@ -389,6 +396,10 @@ button.trigger span::before {
 	overflow: hidden;
 }
 
+.intro-effect-fadeout.modify .header {
+	height: auto;
+}
+
 .intro-effect-fadeout.modify .bg-img {
 	-webkit-transform: translateY(-25%);
 	transform: translateY(-25%);
@@ -406,6 +417,9 @@ button.trigger span::before {
 	background: -webkit-linear-gradient(top, rgba(241,241,241,0) 0%, rgba(241,241,241,1) 100%);
 	background: linear-gradient(to bottom, rgba(241,241,241,0) 0%, rgba(241,241,241,1) 100%);
 } 
+.intro-effect-fadeout.modify .background_black{
+	display: none;	
+}
 
 .intro-effect-fadeout.modify .bg-img::after {
 	opacity: 1;
@@ -1198,6 +1212,34 @@ button.trigger span::before {
 }
 
 /* Media Queries */
+@media screen and (max-width: 64em) {
+    button.trigger {
+		height:100%;
+        width:100%;
+        top:0;
+        left:0;
+        margin-left: 0;
+	}
+    button.trigger  span{
+        position: absolute;
+        overflow: visible;    
+		height:1em;
+        width: 100%;
+        bottom: 1em;
+        left:0;
+	}
+    button.trigger  span::before{
+        position: absolute;
+        overflow: visible;    
+		height:1em;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+	}
+    button.trigger::before {
+		content: '';
+	}
+}
 @media screen and (max-width: 47em) {
 	.content {
 		font-size: 90%;

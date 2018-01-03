@@ -144,7 +144,7 @@ html, body {
 .cd-primary-nav-trigger {
   position: absolute;
   right: 10px;
-  top: 0;
+  top: 0px;
   height: 30px;
   width: 50px;
   margin-top: -20px;
@@ -285,7 +285,7 @@ html, body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin: .2em 0;
-  text-transform: capitalize;
+  text-transform: lowercase;
 }
 .cd-primary-nav a {
   color: #e0e0e0;
