@@ -664,6 +664,10 @@ a:active {
 	.main-navigation ul {
 		display: none;
 	}
+	
+	ul, ol {
+    margin: 0 0 1.5em 0em;
+}
 }
 
 .site-main .comment-navigation,
