@@ -168,7 +168,7 @@ function falanster_event_save($postId){
     
    
     // пришло ли поле наших данных? 
-     if (!isset($_POST['title_event'])&!($_POST['title_event'])=='') 
+     if (!isset($_POST['title_event'])&&!($_POST['title_event'])=='') 
      return; 
 
      // не происходит ли автосохранение? 
