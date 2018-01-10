@@ -22,7 +22,7 @@ add_filter( 'the_content', 'filter_function_get_google_event' );
 function filter_function_get_google_event( $content ) {
 	// Фильтр...
   global $post;
-	return $content.get_post_meta($post->ID, '_falanster_event', true);
+	//return $content.get_post_meta($post->ID, '_falanster_event', true);
 }
 
 
