@@ -53,7 +53,7 @@ html, body, .container, .header {
 }
 
 .title {
-	z-index: 1000;
+	
 	margin: 0 auto;
 	padding: 0 1.25em;
 	width: 100%;
@@ -437,6 +437,7 @@ button.trigger span::before {
 
 .intro-effect-fadeout .header p {
 	opacity: 0;
+    visibility: hidden;
 }
 
 .intro-effect-fadeout .header p:nth-child(2) {
@@ -449,9 +450,16 @@ button.trigger span::before {
 	transform: translateX(-150px);
 }
 
+.intro-effect-fadeout .header p:nth-child(4) {
+	-webkit-transform: translateX(250px);
+	transform: translateX(250px);
+}
+
 .intro-effect-fadeout.modify .header p:nth-child(2),
-.intro-effect-fadeout.modify .header p:nth-child(3) {
-	opacity: 1;
+.intro-effect-fadeout.modify .header p:nth-child(3),
+.intro-effect-fadeout.modify .header p:nth-child(4) {
+    visibility: visible;
+	opacity: 1;    
 	-webkit-transform: translateX(0);
 	transform: translateX(0);
 }
