@@ -668,6 +668,9 @@ a:active {
 	ul, ol {
     margin: 0 0 1.5em 0em;
 }
+	h2{
+	word-break: break-all;
+	}
 }
 
 .site-main .comment-navigation,
