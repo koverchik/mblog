@@ -11,7 +11,7 @@
 		<?php the_title( sprintf( '<h1 class="entry-title"><a href="%s" rel="bookmark">', esc_url( get_permalink() ) ), '</a></h1>' ); ?>
         
 		<div class="entry-meta">
-			<?php the_time('F jS, Y'); ?> <?php echo get_avatar( get_the_author_email(), get_the_author() ); ?> <?php the_author(); ?>
+			<?php the_time('F jS, Y'); ?> <?php echo get_avatar( get_the_author_email(), get_the_author() ); ?> <?php the_author(); echo get_post_meta($post->ID, '_falanster_event', true); ?>
 		</div><!-- .entry-meta -->
 
 		<?php

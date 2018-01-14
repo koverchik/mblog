@@ -102,6 +102,7 @@ endif; // readit_setup
 add_action( 'after_setup_theme', 'readit_setup' );
 
 
+
 /**
  * Register widget area.
  *
@@ -215,11 +216,34 @@ function readit_widgets_init() {
 }
 add_action( 'widgets_init', 'readit_widgets_init' );
 
+
+
+add_filter ('the_content', 'insertCalendar');   
+
+function insertCalendar($content) {
+   if(is_single()) {      
+      global $post;
+      $content.= '<div class="falanster-event-calendar">';
+      $content.= get_post_meta($post->ID, '_falanster_event', true);     
+      $content.= '</div>';
+   }
+   
+   return $content;   
+} 
+
 /**
  * Enqueue scripts and styles.
  */
 function readit_scripts() {
 	wp_enqueue_style( 'readit-style', get_stylesheet_uri() );
+    
+    wp_enqueue_style( 'readit-subscribe', get_template_directory_uri() . '/css/subscribe.css' );
+    
+    if ( is_single() ) { 
+	
+        wp_enqueue_style( 'readit-calendar', get_template_directory_uri() . '/css/calendar.css' ); 
+	
+	} 
 	
 	$headings_font = esc_html(get_theme_mod('headings_fonts'));
 	$body_font = esc_html(get_theme_mod('body_fonts'));
@@ -235,7 +259,8 @@ function readit_scripts() {
 		wp_enqueue_style( 'readit-open-body', '//fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700');
 	}
 
-	wp_enqueue_style( 'readit-menu', get_template_directory_uri() . '/css/menu.css' );
+	wp_enqueue_style( 'readit-menu', get_template_directory_uri() . '/css/menu.css' );  
+    
 	
 	wp_enqueue_style( 'readit-font-awesome', get_template_directory_uri() . '/fonts/font-awesome.css' );  
 
@@ -258,8 +283,8 @@ function readit_scripts() {
 
 	if ( is_single() ) { 
 	
-	wp_enqueue_style( 'readit-transition', get_template_directory_uri() . '/css/transition.css' );
-	
+	wp_enqueue_style( 'readit-transition', get_template_directory_uri() . '/css/transition.css' );    
+   
 	wp_enqueue_script( 'readit-transition', get_template_directory_uri() . '/js/transition.script.js', array(), false, true );
 	
 	} 
@@ -431,7 +456,6 @@ function slider_metaboxes( $meta_boxes ) {
     return $meta_boxes;
 }
 add_filter( 'cmb_meta_boxes', 'slider_metaboxes' );
-
 
 /**
  * Initialize custom meta 

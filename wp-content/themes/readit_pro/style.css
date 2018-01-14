@@ -812,9 +812,14 @@ a:active {
 }
 
 .widget-title {
+	margin: 0px;
+	color: #333333;
 	font-size: 14px;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
+}
+.contact-phone span {
+	margin-right: 8px;
 }
 
 /*--------------------------------------------------------------
@@ -849,7 +854,7 @@ a:active {
 
 .site-footer {
     background: none repeat scroll 0 0 #222;
-    color: #b9babe;
+    color: #333333;
     padding: 30px;
 }
 
@@ -885,7 +890,7 @@ a:active {
 
 .social-media-icons .fa {
   color: #999999;   
-  font-size: 1.25em;   
+  font-size: 18pt;   
   margin: 0 5px;       
   -webkit-transition: background-color 500ms ease-out 1s;
   -moz-transition: background-color 500ms ease-out 1s;
@@ -1826,4 +1831,9 @@ body {
 	}
 
 	
+}
+/*------------------custom css -------------------------*/
+
+.entry-title a {
+    word-break: break-word;
 }

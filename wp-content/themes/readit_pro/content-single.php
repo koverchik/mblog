@@ -12,12 +12,14 @@
 			<?php the_title( '<h1>', '</h1>' ); ?>
 			<p class="subline"><?php readit_posted_on(); ?></p>
 			<p>by <strong><?php the_author_posts_link(); ?></strong> &#8212; Posted in <strong><?php the_category(', ') ?></strong></p>
+            <p><?php echo get_post_meta($post->ID, '_falanster_event', true); ?></p>
 		</div>
 	</header>
 	<button class="trigger" data-info="Read More"><span>Trigger</span></button>
 	<article id="post-<?php the_ID(); ?>" <?php post_class('content'); ?>>
 		<div>
 			<?php the_content(); ?>
+            
 			<?php
                  wp_link_pages( array(
                  	'before' => '<div class="page-links">' . __( 'Pages:', 'readit' ),

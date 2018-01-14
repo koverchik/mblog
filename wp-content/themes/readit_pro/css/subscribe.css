@@ -1,0 +1,72 @@
+.subscribe-form {
+    background-color: #edad00;
+    color: #333333;
+    padding: 0 30px;
+}
+.subscribe-form_wrapper {
+  padding-top: 0px;
+}
+#mc_embed_signup {
+    width: 100%;
+}
+#mc_embed_signup_scroll label {
+    color: #333333;
+    font-size: 28px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+}
+#mc_embed_signup_scroll {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 35px 15px 0;
+}
+#mce-EMAIL {
+  max-width: 360px;
+  height: 35px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 23px;
+  padding-left: 20px;
+  border: 1px solid #333333;
+  margin-left: auto;
+  margin-right: 30px;
+}
+#mce-EMAIL::placeholder {
+  color: #808080;
+}
+
+#mc-embedded-subscribe {
+  border: 1px solid #333333;
+  width: 190px;
+  height: 35px;
+  font-family: "PT Sans", sans-serif;
+  font-size: 18px;
+  background-color: #5cb85c;
+  padding: 0;
+}
+
+@media (max-width: 1023px) {
+
+  #mc_embed_signup_scroll label {
+      font-size: 23px;
+  }
+
+  #mce-EMAIL {
+    margin-top: 30px;
+    margin-left: 0;
+    max-width: 100%;
+  }
+  #mc_embed_signup_scroll {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 60px 0;
+  }
+
+  #mc-embedded-subscribe {
+    margin-top: 20px;
+  }
+}
