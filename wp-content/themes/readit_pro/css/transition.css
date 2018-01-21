@@ -199,14 +199,19 @@ button.trigger span::before {
 
 .content blockquote p {
 	margin-bottom: 0.75em !important;
+	display: inline;
 }
 
 .content blockquote::before {
 	content: '\201C';
+	margin-right: 5px;
+	float: left;
 }
 
 .content blockquote::after {
 	content: '\201D';
+	margin: 0px 0px 25px 5px;
+	display: inline-block;
 }
 
 /***** Individual effects *****/
